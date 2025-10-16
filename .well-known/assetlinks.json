@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.mybajet.twa",
+        "sha256_cert_fingerprints": ["06:2F:3E:0E:AA:0A:B7:6E:61:2F:38:07:95:33:C5:D2:6A:9B:27:BA:2C:A4:F3:80:A0:18:75:C9:96:08:64:03"]
+      }
+    }]
