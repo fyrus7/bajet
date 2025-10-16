@@ -1,23 +1,22 @@
 {
-  "name": "MyExpense",
-  "short_name": "MyExpense",
+  "name": "Bajet",
+  "short_name": "Bajet",
   "icons": [
     {
-      "src": "/app2/asset/web-app-manifest-192x192.png",
+      "src": "web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "png",
       "purpose": "any"
     },
     {
-      "src": "/app2/asset/web-app-manifest-512x512.png",
+      "src": "web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "png",
       "purpose": "maskable"
     }
   ],
   "theme_color": "#E8ECEF",
   "background_color": "#E8ECEF",
   "display": "standalone",
-  "start_url": "/app2/myexpense",
-  "scope": "/app2/"
+  "start_url": "index"
 }
