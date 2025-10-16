@@ -1,0 +1,23 @@
+{
+  "name": "MyExpense",
+  "short_name": "MyExpense",
+  "icons": [
+    {
+      "src": "/app2/asset/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app2/asset/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#E8ECEF",
+  "background_color": "#E8ECEF",
+  "display": "standalone",
+  "start_url": "/app2/myexpense",
+  "scope": "/app2/"
+}
